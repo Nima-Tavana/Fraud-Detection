@@ -20,3 +20,6 @@ and aslo Basic topic about image segmentation</h4>
 </h5>
 
 ![svm2](https://github.com/user-attachments/assets/d702fb02-bc8b-4072-8b5d-7febe6e5ece7)
+<hr>
+
+<h4>What is Logistic Regression?</h4>
