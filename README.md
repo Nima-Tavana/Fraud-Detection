@@ -19,9 +19,13 @@ and aslo Basic topic about image segmentation</h4>
 <h5>Support Vectors are simply the co-ordinates of individual observation. The SVM classifier is a frontier which best segregates the two classes (hyper-plane/ line).
 </h5>
 
-![svm2](https://github.com/user-attachments/assets/d702fb02-bc8b-4072-8b5d-7febe6e5ece7)
+![svm2](https://github.com/user-attachments/assets/d
+
+702fb02-bc8b-4072-8b5d-7febe6e5ece7)
 <hr>
 <h4>What is Logistic Regression?</h4>
 
 <h5>It is used to determine the value of a continuous dependent variable. 
 Logistic Regression is generally used for classification purposes. Unlike `Linear Regression`, the dependent variable can take a limited number of values only i.e, the dependent variable is categorical. When the number of possible outcomes is only two it is called Binary Logistic Regression.</h5>
+
+![vs](https://github.com/user-attachments/assets/b936454a-e602-4161-9764-c4086d862598)
