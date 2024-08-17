@@ -23,5 +23,5 @@ and aslo Basic topic about image segmentation</h4>
 <hr>
 <h4>What is Logistic Regression?</h4>
 
-<h3>It is used to determine the value of a continuous dependent variable. 
-Logistic Regression is generally used for classification purposes. Unlike `Linear Regression`, the dependent variable can take a limited number of values only i.e, the dependent variable is categorical. When the number of possible outcomes is only two it is called Binary Logistic Regression.</h3>
+<h5>It is used to determine the value of a continuous dependent variable. 
+Logistic Regression is generally used for classification purposes. Unlike `Linear Regression`, the dependent variable can take a limited number of values only i.e, the dependent variable is categorical. When the number of possible outcomes is only two it is called Binary Logistic Regression.</h5>
